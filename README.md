@@ -226,7 +226,6 @@ The project did not stop at identifying patterns. The findings were translated i
 
 The full management recommendations are included in:
 
-- [`Insurance_Recommendations.pdf`](recommendations/Insurance_Recommendations.pdf)
 - [`Insurance_Recommendations.docx`](recommendations/Insurance_Recommendations.docx)
 
 ---
@@ -246,7 +245,6 @@ insurance-data-analytics/
 │   └── Insurance_PowerBI.pbix
 │
 ├── recommendations/
-│   ├── Insurance_Recommendations.pdf
 │   └── Insurance_Recommendations.docx
 │
 ├── images/
